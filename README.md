@@ -52,7 +52,3 @@ Displays real-time stopwatch information and messages, including the start messa
 ## Implementation
 
 The program is written in C and utilizes the STM32F0's TIM14 for timer functionality. LCD is used for display, and LEDs indicate the current state.
-
-## Acknowledgments
-
-- STM32 Documentation: [STMicroelectronics](link-to-docs)
