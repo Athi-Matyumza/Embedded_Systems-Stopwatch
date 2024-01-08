@@ -1,8 +1,6 @@
 # Digital Stopwatch with Lap Function
 
-![STM32](https://img.shields.io/badge/STM32-Development%20Board-blue)
-![C](https://img.shields.io/badge/Language-C-green)
-![LCD](https://img.shields.io/badge/LCD-Display-informational)
+//
 
 ## Overview
 
@@ -56,9 +54,4 @@ The program is written in C and utilizes the STM32F0's TIM14 for timer functiona
 
 ## Acknowledgments
 
-- Practical Manual: [EE2046F/EE2050F](link-to-manual)
 - STM32 Documentation: [STMicroelectronics](link-to-docs)
-
----
-
-**Note:** Replace placeholders like `[STM32](https://img.shields.io/badge/STM32-Development%20Board-blue)` with actual links to relevant resources. Provide links to the practical manual and STM32 documentation if applicable.
