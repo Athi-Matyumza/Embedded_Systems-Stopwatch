@@ -1,14 +1,16 @@
 //********************************************************************
 //*                    EEE2046F C template                           *
 //*==================================================================*
-//* WRITTEN BY: Jesse Arendse   	                 		         *
+//* WRITTEN BY: Athenkosi Matyumza  	                 		         *
 //* DATE CREATED: 07/04/2023                                         *
 //* MODIFIED: Athenkosi Matyumza                                     *
 //*==================================================================*
 //* PROGRAMMED IN: Visual Studio Code                                *
 //* TARGET:        STM32F0                                           *
 //*==================================================================*
-//* DESCRIPTION: Practical 4                                         *
+//* DESCRIPTION:  Design of a simple digital stopwatch with a lap 
+//*               function using the UCT STM32 Development Board
+//*               and the STM32F0’s General-purpose timer unit TIM14.                                        *
 //*                                                                  *
 //********************************************************************
 // INCLUDE FILES
