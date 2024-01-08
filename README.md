@@ -1,6 +1,7 @@
 # Digital Stopwatch with Lap Function
 
-//
+![WhatsApp Image 2024-01-08 at 21 29 46_cd6f71b1](https://github.com/Athi-sirmatt/Embedded_Systems-Stopwatch/assets/93771863/ae558133-9d93-4540-a8fe-c5f9b0fcdac1)
+
 
 ## Overview
 
